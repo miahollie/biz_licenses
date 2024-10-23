@@ -16,12 +16,13 @@ Initial Issuance Date — date the license was first issued
 Expiration Date — date in which the license expired 
 
 # Methodology
+A document including descriptive code has also been made available.
 The Jupyter Notebook in this repo performs the following:
 - imports libraries
 - retrieves basic information about the dataset
-- creates an analysis of the dataset to show license trends over decades
+- produces an analysis of the dataset to make it easier to see how many new licenses for new businesses were issued each year in New York City.
 
-A document including descriptive code has also been made available.
+Note: Once the output csv file is downloaded to your machine, the rest of the analysis takes place in Excel. 
 
 # Licensing
 All code in this repository is available under the MIT License. The data file in the output/ directory is available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. All files in the data/ directory are released into the public domain.
